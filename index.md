@@ -6,14 +6,14 @@ layout: home
 En esta página vamos a hablar de las cosas más guays del mundo, como los dinosaurios, los coches o los videojuegos.
 
 ----
-subtitle: Hervíboros
+title: Hervíboros
 layout: home
 ----
 
 Los hervíboros comen hierba y se ven chulos porque son grandes y tienen pinchos pero se la pasan sin hacer nada todo el día.
 
 ----
-subtitle: Carnívoros
+title: Carnívoros
 layout: home
 ----
 
