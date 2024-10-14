@@ -1,4 +1,3 @@
----
 title: Dinosaurios
 layout: home
 ---
