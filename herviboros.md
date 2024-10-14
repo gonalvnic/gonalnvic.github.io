@@ -1,6 +1,6 @@
 ---
 title: Hervíboros
-parent: dinosaurios.md
+parent: Dinosaurios
 layout: home
 ---
 Los hervíboros comen hierba y son un poco más aburridos que los carnívoros, aún así algunos tienen pinchos eso está bastant bien
