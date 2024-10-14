@@ -4,5 +4,5 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-search enabled: false
+search_enabled: false
 color_scheme: dark
