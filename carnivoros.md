@@ -1,6 +1,7 @@
 ---
 title: Carnivoros
 parent: Dinosaurios
+nav_order: 1.5
 layout: home
 ---
 Los carnívoros son los dinosaurios más chulos, comen carne, duermen cuando quieren y son grandes
