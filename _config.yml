@@ -6,4 +6,4 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/Azure/azure-quickstart-templates/blob/master/Deploy-AzTemplate.ps1
-logo: "gate_models_s_02_m.png"
+  search enabled: false
