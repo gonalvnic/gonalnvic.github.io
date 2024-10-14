@@ -5,4 +5,3 @@ layout: home
 Cochazos
 ---
 Los coches son súper chulos, molan que flipas, 4 ruedas con muchísimos diseños en muchísimos colores.
-logo: "/gate_models_s_02_m.png"
