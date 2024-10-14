@@ -1,4 +1,3 @@
----
 title: Principio molón
 layout: home
 nav_order: 1
