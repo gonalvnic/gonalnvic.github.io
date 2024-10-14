@@ -1,6 +1,7 @@
 ---
 title: Extintos
 parent: Dinosaurios
+nav_order: 3
 layout: home
 ---
 Los dinosaurios murieron por un meteorito hace unos años :(
