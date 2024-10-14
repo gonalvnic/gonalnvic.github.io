@@ -4,6 +4,5 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
-aux_links:
-  Template Repository: https://github.com/Azure/azure-quickstart-templates/blob/master/Deploy-AzTemplate.ps1
-  search enabled: false
+Template Repository: https://github.com/Azure/azure-quickstart-templates/blob/master/Deploy-AzTemplate.ps1
+search enabled: false
